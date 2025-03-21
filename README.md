@@ -1,6 +1,6 @@
 ![Header](https://github.com/Anizart/Anizart/blob/main/assets/anime-style.jpg)
 
-## I'm a frontend developer
+## <center>I'm a frontend developer</center>
 
 ### Tools and Languages:
 ![Filter](https://img.shields.io/badge/VS_Code-2a2f39?logo=visualstudiocode)
