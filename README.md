@@ -10,7 +10,7 @@
 ![Filter](https://img.shields.io/badge/CSS-2a2f39?logo=css&logoColor=9966cc)
 ![Filter](https://img.shields.io/badge/Sass/Scss-2a2f39?logo=sass)
 ![Filter](https://img.shields.io/badge/JavaScript-2a2f39?logo=javascript)
-![Filter](https://img.shields.io/badge/npm-2a2f39?logo=npm&logoColor=CB3837)
+![Filter](https://img.shields.io/badge/npm-2a2f39?logo=npm&logoColor=CB3837?style=for-the-badge)
 ![Filter](https://img.shields.io/badge/SQLite-2a2f39?logo=sqlite)
 ![Filter](https://img.shields.io/badge/React-2a2f39?logo=react)
 ![Filter](https://img.shields.io/badge/styled_components-2a2f39?logo=styled-components&logoColor=DB7093)
