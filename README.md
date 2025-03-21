@@ -3,6 +3,11 @@
 ## I'm a frontend developer
 
 ### Languages and Tools:
+![Filter](https://img.shields.io/badge/any_text-you_like-blue)
+
+
+
+<!-- 
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-2a2f39-style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
 
-//img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
+img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/ -->
