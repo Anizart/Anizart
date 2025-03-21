@@ -2,7 +2,8 @@
 
 ## I'm a frontend developer
 
-### Languages and Tools:
+### Tools and Languages:
+![Filter](https://img.shields.io/badge/VS_Code-2a2f39?logo=visualstudiocode)
 ![Filter](https://img.shields.io/badge/HTML-2a2f39?logo=html5)
 ![Filter](https://img.shields.io/badge/CSS-2a2f39?logo=css&logoColor=9966cc)
 ![Filter](https://img.shields.io/badge/Sass/Scss-2a2f39?logo=sass)
