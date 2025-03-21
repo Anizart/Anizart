@@ -6,7 +6,7 @@
 ![Filter](https://img.shields.io/badge/VS_Code-2a2f39?logo=visualstudiocode)
 ![Filter](https://img.shields.io/badge/Figma-2a2f39?logo=figma)
 ![Filter](https://img.shields.io/badge/Open_Server_Panel-2a2f39?logo=openserverpanel)
-![Filter](https://img.shields.io/badge/HTML-2a2f39?style=for-the-badge?logo=html5)
+![Filter](https://img.shields.io/badge/HTML-2a2f39?logo=html5)
 ![Filter](https://img.shields.io/badge/CSS-2a2f39?logo=css&logoColor=9966cc)
 ![Filter](https://img.shields.io/badge/Sass/Scss-2a2f39?logo=sass)
 ![Filter](https://img.shields.io/badge/JavaScript-2a2f39?logo=javascript)
