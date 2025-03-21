@@ -8,4 +8,4 @@
 ![Filter](https://img.shields.io/badge/JavaScript-2a2f39?logo=javascript)
 ![Filter](https://img.shields.io/badge/React-2a2f39?logo=react)
 ![Filter](https://img.shields.io/badge/npm-2a2f39?logo=npm&logoColor=CB3837)
-![Filter](https://img.shields.io/badge/styled_components-2a2f39?logo=styled-components&logoColor=DB7093&logoSize=amd)
+![Filter](https://img.shields.io/badge/styled_components-2a2f39?logo=styled-components&logoColor=DB7093&logoSize=amg)
