@@ -3,7 +3,7 @@
 ## I'm a frontend developer
 
 ### Languages and Tools:
-![Filter](https://img.shields.io/badge/:badgeContent?logo=JavaScript-you_like-blue)
+![Filter](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 
 
